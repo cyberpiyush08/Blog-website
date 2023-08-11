@@ -1,0 +1,85 @@
+.description {
+    background-color: #D8C4B6;
+}
+
+.description button {
+    margin: 20px 0;
+}
+
+.description div:nth-child(1) {
+    text-align: center;
+}
+
+.description .job-description {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.description .job-description h2 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.description .job-description h5 {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.7rem;
+}
+
+.description .job-description p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.2rem;
+    margin: 20px;
+}
+
+.description .job-description .job-work-content {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.description .job-description .job-work-content div {
+    width: 47%;
+}
+
+.description .job-description .job-work-content div h4 {
+    text-align: center;
+    margin: 20px 0;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 1.7rem;
+}
+
+.description .job-description .job-work-content div ul {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2rem;
+}
+
+.description .job-description .job-work-content div ul li {
+    margin: 10px 0;
+}
+
+.description .job-description .job-work-content > :nth-child(1) ul {
+    text-align: left;
+}
+
+@media only screen and (max-width: 1012px) {
+    .description > :nth-child(1) {
+        margin: 4em 0 0;
+    }
+
+    .description .job-description .job-work-content {
+        flex-direction: column;
+        /* align-items: center; */
+    }
+
+    .description .job-description .job-work-content div {
+        width: 80%;
+    }
+
+    .description .job-description .job-work-content div ul {
+        width: 110%;
+    }
+}

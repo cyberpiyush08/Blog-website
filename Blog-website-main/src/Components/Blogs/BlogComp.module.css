@@ -1,0 +1,38 @@
+.techno {
+    --color1: #303841;
+    --color2: #3A4750;
+    --color3: #00ADB5;
+}
+
+.travel {
+    --color1: #990000;
+    --color2: #FF5B00;
+    --color3: #FFEE63;
+}
+
+.health {
+    --color1: #57CC99;
+    --color2: #80ED99;
+    --color3: #38A3A5;
+}
+
+.topic-blog {
+    background: linear-gradient(to left, var(--color1), var(--color2))
+}
+
+.topic-blog > :nth-child(1) {
+    margin: 5em 0 0;
+}
+
+.topic-cards {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.topic-cards .topic-card {
+    width: 21rem;
+    margin: 20px;
+    background-color: var(--color3);
+}

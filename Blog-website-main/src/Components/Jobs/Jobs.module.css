@@ -1,0 +1,17 @@
+.job-content {
+    background-color: #DCD7C9;
+}
+
+.job-content .jobs {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+@media only screen and (max-width: 1047px) {
+    .job-content > :nth-child(1) {
+        text-align: center;
+        margin: 4em 0 0;
+    }
+}

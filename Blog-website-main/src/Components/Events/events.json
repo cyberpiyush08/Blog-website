@@ -1,0 +1,25 @@
+{
+  "upcomingEvents": [
+    {
+      "title": "Technology Event",
+      "name": "Tech Innovators Summit",
+      "description": "The Tech Innovators Summit brings together industry leaders, entrepreneurs, and innovators to discuss the latest advancements in technology. The event will feature keynote speeches, panel discussions, and networking opportunities.",
+      "date": "2023-07-15",
+      "location": "San Francisco, CA"
+    },
+    {
+      "title": "Travel Event",
+      "name": "Adventure Travel Expo",
+      "description": "The Adventure Travel Expo is a premier event for travel enthusiasts and adventurers. Discover exciting destinations, meet travel experts, and learn about the latest trends in adventure tourism. From hiking to wildlife safaris, this event has it all!",
+      "date": "2023-09-05",
+      "location": "Denver, CO"
+    },
+    {
+      "title": "Health Event",
+      "name": "HealthTech Innovation Conference",
+      "description": "The HealthTech Innovation Conference focuses on the intersection of healthcare and technology. Leading experts will share insights on digital health solutions, telemedicine, AI in diagnostics, and more. Join this event to stay ahead in the rapidly evolving healthcare landscape.",
+      "date": "2023-10-20",
+      "location": "New York, NY"
+    }
+  ]
+}

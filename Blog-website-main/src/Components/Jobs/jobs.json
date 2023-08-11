@@ -1,0 +1,1374 @@
+[
+  {
+    "index": 1,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-06-20",
+    "end_date": "2023-07-15",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 2,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-06-18",
+    "end_date": "2023-07-10",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 3,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-06-25",
+    "end_date": "2023-07-20",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 4,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-06-22",
+    "end_date": "2023-07-18",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 5,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-06-28",
+    "end_date": "2023-07-25",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 6,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-06-17",
+    "end_date": "2023-07-12",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 7,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-06-23",
+    "end_date": "2023-07-17",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 8,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-06-26",
+    "end_date": "2023-07-22",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 9,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-07-01",
+    "end_date": "2023-07-28",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 10,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-06-30",
+    "end_date": "2023-07-23",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 11,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-07-07",
+    "end_date": "2023-08-03",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 12,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-07-05",
+    "end_date": "2023-07-31",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 13,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-07-10",
+    "end_date": "2023-08-06",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 14,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-07-03",
+    "end_date": "2023-07-29",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 15,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-07-08",
+    "end_date": "2023-08-04",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 16,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-07-06",
+    "end_date": "2023-08-02",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 17,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-07-13",
+    "end_date": "2023-08-09",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 18,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-07-11",
+    "end_date": "2023-08-07",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 19,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-07-18",
+    "end_date": "2023-08-14",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 20,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-07-16",
+    "end_date": "2023-08-12",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 21,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-07-20",
+    "end_date": "2023-08-16",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 22,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-07-17",
+    "end_date": "2023-08-13",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 23,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-07-24",
+    "end_date": "2023-08-20",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 24,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-07-22",
+    "end_date": "2023-08-18",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 25,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-07-29",
+    "end_date": "2023-08-25",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 26,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-07-27",
+    "end_date": "2023-08-23",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 27,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-07-25",
+    "end_date": "2023-08-21",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 28,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-07-23",
+    "end_date": "2023-08-19",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 29,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-07-31",
+    "end_date": "2023-08-27",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 30,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-07-28",
+    "end_date": "2023-08-24",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 31,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-07-30",
+    "end_date": "2023-08-26",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 32,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-07-26",
+    "end_date": "2023-08-22",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 33,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-08-04",
+    "end_date": "2023-08-30",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 34,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-08-02",
+    "end_date": "2023-08-29",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 35,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-08-01",
+    "end_date": "2023-08-28",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 36,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-07-31",
+    "end_date": "2023-08-27",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 37,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-08-05",
+    "end_date": "2023-09-01",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 38,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-08-04",
+    "end_date": "2023-08-31",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 39,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-08-06",
+    "end_date": "2023-09-02",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 40,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-08-02",
+    "end_date": "2023-08-29",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 41,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-08-07",
+    "end_date": "2023-09-03",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 42,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-08-05",
+    "end_date": "2023-09-01",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 43,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-08-03",
+    "end_date": "2023-08-30",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 44,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-08-01",
+    "end_date": "2023-08-28",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 45,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-08-06",
+    "end_date": "2023-09-02",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 46,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-08-05",
+    "end_date": "2023-09-01",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 47,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-08-07",
+    "end_date": "2023-09-03",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 48,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-08-04",
+    "end_date": "2023-08-31",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 49,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-08-06",
+    "end_date": "2023-09-02",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 50,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-08-08",
+    "end_date": "2023-09-04",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 51,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-08-06",
+    "end_date": "2023-09-02",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 52,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-08-05",
+    "end_date": "2023-09-01",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  },
+  {
+    "index": 53,
+    "job_title": "Digital Marketing Specialist",
+    "company_name": "DigitalGrowth",
+    "location": "Toronto",
+    "start_date": "2023-08-07",
+    "end_date": "2023-09-03",
+    "salary": "4000 USD/month",
+    "daily_work": [
+      "Develop and execute digital marketing campaigns",
+      "Analyze market trends and consumer behavior",
+      "Manage social media accounts",
+      "Optimize website content",
+      "Conduct keyword research",
+      "Track and report campaign performance"
+    ],
+    "requirements": [
+      "Solid understanding of digital marketing principles",
+      "Experience with social media management",
+      "Knowledge of SEO techniques and tools",
+      "Analytical mindset and ability to interpret data"
+    ]
+  },
+  {
+    "index": 54,
+    "job_title": "Software Developer",
+    "company_name": "TechInnovators",
+    "location": "Seattle",
+    "start_date": "2023-08-08",
+    "end_date": "2023-09-04",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Design and develop software applications",
+      "Write clean and maintainable code",
+      "Collaborate with cross-functional teams",
+      "Conduct code reviews",
+      "Troubleshoot and debug issues",
+      "Perform unit and integration testing"
+    ],
+    "requirements": [
+      "Proficiency in programming languages (e.g., Java, C++, Python)",
+      "Experience with software development frameworks",
+      "Knowledge of software engineering principles",
+      "Strong problem-solving and analytical skills"
+    ]
+  },
+  {
+    "index": 55,
+    "job_title": "App Developer",
+    "company_name": "MobileCraft",
+    "location": "Sydney",
+    "start_date": "2023-08-06",
+    "end_date": "2023-09-02",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Develop mobile applications for iOS and Android",
+      "Collaborate with designers and backend developers",
+      "Implement app features and functionalities",
+      "Perform code optimization",
+      "Troubleshoot and resolve issues",
+      "Ensure app performance and security"
+    ],
+    "requirements": [
+      "Experience with mobile app development",
+      "Proficiency in programming languages (e.g., Swift, Kotlin)",
+      "Knowledge of mobile UI/UX design principles",
+      "Familiarity with app testing and debugging"
+    ]
+  },
+  {
+    "index": 56,
+    "job_title": "Video Editor",
+    "company_name": "CineMasters",
+    "location": "Los Angeles",
+    "start_date": "2023-08-04",
+    "end_date": "2023-08-31",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Edit and assemble video footage",
+      "Trim and rearrange scenes",
+      "Add visual effects and transitions",
+      "Optimize video and audio quality",
+      "Collaborate with content creators and producers",
+      "Ensure adherence to project timelines"
+    ],
+    "requirements": [
+      "Proficiency in video editing software (e.g., Adobe Premiere)",
+      "Ability to tell compelling stories through video",
+      "Knowledge of visual effects and color grading",
+      "Attention to detail and strong creative vision"
+    ]
+  },
+  {
+    "index": 57,
+    "job_title": "Web Developer",
+    "company_name": "WebSolutions",
+    "location": "New York",
+    "start_date": "2023-08-07",
+    "end_date": "2023-09-03",
+    "salary": "5000 USD/month",
+    "daily_work": [
+      "Design and develop web applications",
+      "Collaborate with cross-functional teams",
+      "Write clean and efficient code",
+      "Troubleshoot and debug issues",
+      "Implement responsive layouts and user interfaces"
+    ],
+    "requirements": [
+      "Proficiency in HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend technologies (e.g., Node.js, Python)",
+      "Familiarity with version control systems (e.g., Git)"
+    ]
+  },
+  {
+    "index": 58,
+    "job_title": "Frontend Developer",
+    "company_name": "FrontendMasters",
+    "location": "San Francisco",
+    "start_date": "2023-08-05",
+    "end_date": "2023-09-01",
+    "salary": "4500 USD/month",
+    "daily_work": [
+      "Create and maintain user-facing features",
+      "Implement responsive designs",
+      "Optimize application performance",
+      "Collaborate with designers and backend developers",
+      "Test and debug code",
+      "Ensure cross-browser compatibility"
+    ],
+    "requirements": [
+      "Strong knowledge of HTML, CSS, and JavaScript",
+      "Experience with frontend frameworks (e.g., React, Vue)",
+      "Understanding of UI/UX principles",
+      "Ability to work collaboratively in a team environment"
+    ]
+  },
+  {
+    "index": 59,
+    "job_title": "Backend Developer",
+    "company_name": "BackendSolutions",
+    "location": "London",
+    "start_date": "2023-08-03",
+    "end_date": "2023-08-30",
+    "salary": "5500 USD/month",
+    "daily_work": [
+      "Develop server-side logic",
+      "Design and implement data models",
+      "Integrate with external systems and APIs",
+      "Write efficient and scalable code",
+      "Optimize database queries",
+      "Ensure data security and protection"
+    ],
+    "requirements": [
+      "Strong programming skills in backend languages (e.g., Python, Java)",
+      "Experience with backend frameworks (e.g., Django, Spring)",
+      "Knowledge of database systems (e.g., SQL, MongoDB)",
+      "Understanding of API design and development"
+    ]
+  },
+  {
+    "index": 60,
+    "job_title": "Fullstack Developer",
+    "company_name": "FullstackPro",
+    "location": "Berlin",
+    "start_date": "2023-08-01",
+    "end_date": "2023-08-28",
+    "salary": "6000 USD/month",
+    "daily_work": [
+      "Combine frontend and backend development",
+      "Design and develop end-to-end solutions",
+      "Implement RESTful APIs",
+      "Collaborate with cross-functional teams",
+      "Troubleshoot and resolve issues",
+      "Ensure seamless integration of frontend and backend components"
+    ],
+    "requirements": [
+      "Proficiency in both frontend and backend technologies",
+      "Experience with frontend frameworks (e.g., React, Angular)",
+      "Knowledge of backend languages (e.g., Node.js, Python)",
+      "Understanding of database systems and API development"
+    ]
+  }
+]

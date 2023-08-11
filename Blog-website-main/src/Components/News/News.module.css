@@ -1,0 +1,10 @@
+.news-box {
+    background-color: #3F4E4F
+}
+
+@media only screen and (max-width: 920px) {
+    .news-box div > :nth-child(1) {
+        text-align: center;
+        margin: 2em 0 0 0;
+    }
+}
